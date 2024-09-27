@@ -1,0 +1,2 @@
+acceptStuArr(stu);
+    printStuArr(stu);

@@ -1,0 +1,10 @@
+                                                        Libraray Management System
+
+********************************************************************************************************************
+
+ Book Id : 102 
+ Book Name :Detox 
+ Author Name : anuj 
+ Genre : ygby7ty
+ Cost : 500.00 
+
